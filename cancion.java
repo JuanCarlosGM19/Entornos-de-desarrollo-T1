@@ -5,6 +5,7 @@ public class cancion
         {
         	
         	System.out.println("Hola, me presento, mi nombre es Kike Montilla. Me conocen por el barrio como El niño maravilla");
-        	
+		System.out.println("No te pongas farruquito o te apuñalo las costillas.");
+        	System.out.println("Con mi primo en calle Larios comiendo chetos pandilla");
 		}
 }
